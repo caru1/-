@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Cafe24Ssurround';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;,
+{
+    font-family: '-KITA-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/-KITA-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+}
+body {
+  background-color: ivory;
+  font-family: 'Cafe24Ssurround';
+}
+h1 {
+  font-size: 45px;
+  font-family: 'Cafe24Ssurround';
+  text-align: center;
+  font-style: italic;
+  color: white;
+  background-color: skyblue;
+  border: auto;
+  margin: auto;
+  }
+
+.I1 {
+  margin-top: 10px;
+  color: deepskyblue;
+}
+.I2 {
+  margin-top: 10px;
+  color: hotpink;
+}
+.I3 {
+  maring-top: 10px;
+  color: mediumpurple;
+}
+.I4 {
+  margin-top:10px ;
+  color: gold;
+}
+.I5 {
+  margin-top: 10px;
+  color: darkturquoise;
+}
+
+p {
+  margin-top: 45px;
+  margin-left: 25px;
+  font-family: '-KITA-Regular';
+  font-size: 20px;
+}
+.C {
+  text-align: center;
+  font-size: 25px;
+}
+
+.HHH {
+  text-align: center;
+  color: deepskyblue;
+}
